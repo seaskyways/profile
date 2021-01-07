@@ -105,7 +105,7 @@
             from="2017"
             to="2019"
             title="Software Developer"
-            work-place="<a href='https://switchtech.com/' target='_blank'>Switch Technology (Remote)</a>"
+            work-place="<a href='https://switchtech.com/' target='_blank'>Switch Technology</a>"
             :experiences="[
               `Software development on government level encryption solutions`,
               'Web development in PHP, Phalcon, Vue.js',
